@@ -58,7 +58,7 @@ header p{
     text-align: center;
     white-space: normal;
     color: white;
-    margin: 10px;
+    margin: 15px;
 }
 
 header button{
@@ -118,7 +118,7 @@ main h2{
 .module{
     width: 535px;
     height: 51px;
-    margin: 10px;
+    margin: 15px;
     background: #252525;
     display: flex;
     flex-direction: row;
