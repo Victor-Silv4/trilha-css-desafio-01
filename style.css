@@ -112,6 +112,7 @@ main h2{
 
     & span{
         color: #31A8DD;
+        padding-right: 5px;
     }
 }
 
@@ -128,6 +129,7 @@ main h2{
     border: solid 2px #31A8DD;
     font-size: 16px;
     font-weight: 400;
+    box-shadow: -2px 6px 4px 0px #00000066 inset;
 }
 
 #transform-world{
@@ -145,12 +147,13 @@ main h2{
 }
 
 #transform-world p{
-    max-width: 270px;
+    max-width: 244px;
     height: 141px;
     font-size: 40px;
     font-weight: 900;
     line-height: 46.96px;
     text-align: left;
+    text-transform: lowercase;
     margin: 80px;
     text-shadow: 3px 2px #31A8DB;
 }
@@ -164,9 +167,11 @@ main h2{
     border-bottom: 1px solid #33A8DB;
 
     & h2{
-        max-width: 746px;
+        max-width: 755px;
+        height: 76px;
         text-align: center;
         margin: 50px auto 10px;
+        text-transform: uppercase;
     }
 
     & p{
